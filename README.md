@@ -45,6 +45,3 @@ I also added the following bonuses:
 - VirtualBox for virtualization.
 - Debian as the operating system.
 - Knowledge of SSH, UFW/Firewalld, LVM, and bash scripting.
-
-## External Functions
-The project uses various system tools and services such as `ssh`, `sudo`, `ufw` (for Debian), and more.
