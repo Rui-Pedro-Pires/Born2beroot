@@ -48,6 +48,3 @@ I also added the following bonuses:
 
 ## External Functions
 The project uses various system tools and services such as `ssh`, `sudo`, `ufw` (for Debian), and more.
-
-## License
-This project is licensed under the MIT License.
